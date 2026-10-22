@@ -29,7 +29,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rishabkr0&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
+
 <img src="https://img.shields.io/github/followers/Rishabkr0?label=FOLLOWERS&style=for-the-badge&color=6366F1"/>
 <img src="https://img.shields.io/github/stars/Rishabkr0?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=for-the-badge&color=8B5CF6"/>
 
