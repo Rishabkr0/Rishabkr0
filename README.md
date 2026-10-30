@@ -64,25 +64,25 @@ My current interests include **AI/ML systems, LLM-powered applications, intellig
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,java,javascript,typescript,html,css&theme=dark" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
 </p>
 
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,mongodb,postgres,mysql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,mysql&theme=dark" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vercel,aws,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vercel,vscode&theme=dark" />
 </p>
 
 ---
